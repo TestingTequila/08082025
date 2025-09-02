@@ -1,0 +1,15 @@
+1. Data Types
+    Already Covered : integer Family [byte, short, int, long]
+    Today's Topics:
+       floating-point
+             -float
+             -double
+       Character Family
+             -char
+              whenever we perform any mathematical operation/s on char data type,
+              it will show its numeric behaviour
+       Boolean Family
+              -boolean
+
+ ================print in java====================
+ System.out.println(NameOfTheBoxWhoseValueYouWishToPrint)

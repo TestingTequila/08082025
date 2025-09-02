@@ -1,0 +1,12 @@
+Data Types
+  Primitive Data Type
+    -We know in advance how much memory they will consume
+    -We don't need any object in order to use them, can use them directly
+    byte, short, int, long, float, double, char, boolean
+
+  Non-Primitive Data Type
+    -We don't know in advance how much memory they will consume
+    -We need any object in order to use them
+    -String, Array.....
+
+    1 byte = 8 bits

@@ -1,0 +1,2 @@
+We should not store integer values as byte or short,
+if we have to perform some mathematical operations over them
