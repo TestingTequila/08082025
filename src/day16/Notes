@@ -1,0 +1,8 @@
+if(condition)
+{
+   this code will execute if the condition is true
+}
+else
+{
+    his code will execute if the condition is true
+}

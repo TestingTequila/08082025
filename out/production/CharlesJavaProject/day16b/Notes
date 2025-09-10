@@ -1,0 +1,11 @@
+1. Loops: Perform repetitive tasks or actions
+    while loop
+    for loop
+    advanced for loop
+
+
+    while(condition)
+    {
+       this will execute only if condition is true
+       I/D operator
+    }

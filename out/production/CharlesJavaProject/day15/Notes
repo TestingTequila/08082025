@@ -1,0 +1,26 @@
+Statements: Whenever we have to make decisions
+
+condition
+if that condition is true
+   some action will be performed
+if that condition is false
+    some other action will be performed
+
+
+If Charles is joining the class
+    I will take the session
+If Charles is not joining the class
+    I will record the session for him to see it later
+
+    =============================================
+
+    1. If statement
+        if(condition)
+        {
+           this will execute only if condition is true
+        }
+
+        if(charlesIsComing)
+        {
+            I will take the Session
+        }
