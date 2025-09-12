@@ -1,12 +1,13 @@
-package day16b;
+package day16.day16b;
 
-public class ForLoopExample3 {
+public class WhileLoopExample3 {
     //2,4,6,8,10,12,14,16,18,20
 
     public static void main(String[] args) {
-
-        for (int i = 1;i <= 10;i++) {
+        int i = 1;
+        while (i <= 10) {
             System.out.println(i * 2);
+            i++;
         }
     }
 }

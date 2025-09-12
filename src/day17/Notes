@@ -1,0 +1,9 @@
+dataType variableName =value;
+
+data variableName;
+variableName =45
+
+
+1. dataType[] arrayName ={value1, value2, value3, value4.......valueN};
+
+2. dataType[] arrayName = new dataType[CountOfValuesIWishToStore]

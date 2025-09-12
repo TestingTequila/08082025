@@ -1,4 +1,4 @@
-package day16b;
+package day16.day16b;
 
 public class ForLoopExample2
 {
