@@ -1,0 +1,5 @@
+Class & Objects:
+
+What is a Class ---> A class is a Template
+What is Object  ---> Every copy of the class is known as its Object
+ClassName objectName =new ClassName();
