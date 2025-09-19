@@ -1,2 +1,13 @@
 Methods:
 
+What are methods
+How we create methods
+How we call methods
+
+Access Modifiers [public/private/protected]
+
+accessModifier returnType methodName(can/t parameters)
+{
+   we define action over class variables
+}
+
