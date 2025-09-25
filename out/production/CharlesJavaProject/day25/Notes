@@ -1,0 +1,8 @@
+Constructor are like methods which are used to
+initialize objects(assign some meaningful value to the global/class level/instance variable) of a class
+
+How do we create constructor:
+1. The name of the constructor is same as the name of the class
+2. The constructor will not have return type including void
+
+Remember: A constructor is called automatically the moment we create object of the class
