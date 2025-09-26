@@ -1,0 +1,7 @@
+Encapsulation:
+1. WE have made variables as private
+
+    a) setter / getter
+    b) constructors/getter
+    c) constructor/getter/setter
+    d) private methods is encapsulated within public method
