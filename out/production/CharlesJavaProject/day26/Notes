@@ -5,3 +5,14 @@ Encapsulation:
     b) constructors/getter
     c) constructor/getter/setter
     d) private methods is encapsulated within public method
+
+    Constructors are primarily used for initializing object attributes when the object is created,
+    while setter methods are used to modify attribute(update) values after the object has been instantiated.
+
+    Constructors can be used to set multiple values at a time but setters ideally are used to set one value at a time,
+    even though we can use it to set multiple values but we avoid it as this is against SRP principal,
+    this SRP principal is not applied on constructors as they are not methods.
+    That means setter method should have only one parameter at a time and hence it’s a bad idea to overload a setter method.
+    NOTE: both constructors and setters’ methods are used to set the value of global variables only and
+    we ideally should’t be implementing logic withing them, to implement logic, we should use, methods
+

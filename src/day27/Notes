@@ -1,0 +1,5 @@
+Use of 'this' keyword in Java
+1. Differentiate b/w global variables and Parameters with the same name
+    using 'this' keyword, i can access global variables
+2. this keyword is used to call one constructor within other constructor
+
