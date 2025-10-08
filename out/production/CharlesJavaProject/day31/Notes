@@ -1,0 +1,5 @@
+1. To differentiate b/w parameters and instance variables
+2. To call one constructor within other constructor
+3. calling one method within other
+4. Builder pattern
+
